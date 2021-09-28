@@ -3,7 +3,7 @@ title: index
 ---
 
 * [motd](./motd.html)
-* [twitter](https://twitter.com/withgod)
-* [hatena blog](https://withgod.hatenablog.com/)
+* [@withgod](https://twitter.com/withgod)
+* [id:withgod](https://withgod.hatenablog.com/)
 
 
