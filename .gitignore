@@ -1,3 +1,6 @@
 vendor/
 *.swp
 .bundle/
+.jekyll-cache/
+Gemfile.lock
+_site/
