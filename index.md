@@ -1,10 +1,9 @@
 ---
-layout: default
 title: index
 ---
 
-# withgod.github.io
-
 * [motd](./motd.html)
-* [motd](./motd.md)
+* [twitter](https://twitter.com/withgod)
+* [hatena blog](https://withgod.hatenablog.com/)
+
 
