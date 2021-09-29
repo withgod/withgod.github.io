@@ -4,3 +4,6 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 theme: jekyll-theme-hacker
+show_downloads: false
+google_analytics: G-PY88H450GX
+
