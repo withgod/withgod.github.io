@@ -2,7 +2,7 @@
 
 > [lerp100は甘え](https://withgod.hatenablog.com/entry/2012/08/30/004734)
 
-> ⚠ 観戦に入って抜けられなくなる現象を確認しています。遭遇した場合は `connect withgod.jp;` でワンチャン狙って下さい。/ I've seen this happen when you enter a spectator and can't get out. If you encounter this problem, please try to `connect withgod.jp`; 
+> ⚠ 観戦に入って抜けられなくなる現象を確認しています。遭遇した場合は `connect withgod.jp;` でワンチャン狙って下さい。/ I've seen this happen when you enter a spectator and can't get out. If you encounter this problem, please try to `connect withgod.jp`;
 
 
 ## mapcycle
@@ -18,13 +18,12 @@
  sv_restrict_aspect_ratio_fov 0
 ```
 
-## class limit
+## limitation
 
-*  all map sniper/spy/eng = 2
-
-## allow connect
-* JP, TW, US, AS
+* all map sniper/spy/eng = 2
+* allow connect from JP, TW, US, AS
 * MaxPing 150
+* AFK kick 120sec
 
 ## server command
 * !mapvote (not votemap)
