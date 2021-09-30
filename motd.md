@@ -23,7 +23,7 @@
 * all map sniper/spy/eng = 2
 * allow connect from JP, TW, US, AS
 * MaxPing 150
-* AFK kick 120sec
+* AFK kick 180sec
 
 ## server command
 * !mapvote (not votemap)
