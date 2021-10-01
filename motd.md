@@ -9,7 +9,36 @@
 
 ## mapcycle
 
-* official cp + pl + koth
+<details>
+<summary> official cp + pl + koth</summary>
+<p>
+
+### full list
+```
+cp_well
+cp_granary
+cp_gravelpit
+cp_badlands
+cp_fastlane
+pl_badwater
+pl_upward
+cp_junction_final
+cp_yukon_final
+cp_gorge
+cp_freight_final1
+cp_coldfront
+cp_foundry
+cp_gullywash_final1
+cp_snakewater_final1
+cp_process_final
+cp_sunshine
+cp_metalworks
+koth_sawmill
+koth_viaduct
+koth_harvest_final
+```
+</p>
+</details>
 
 ## server settings
 
@@ -38,32 +67,6 @@
 <a href="https://www.battlemetrics.com/servers/tf2/12680881"><img src="https://cdn.battlemetrics.com/b/horizontal500x80px/12680881.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700" /></a>
 
 <iframe src="https://app.datadoghq.com/graph/embed?token=1caef6404c3de3c76a9a775be4b818257942569966d274b5930bc6d1d1bcb8b6&height=400&width=800&legend=true" width="800" height="400" frameborder="0"></iframe>
-
-## mapcycle full list
-
-```
-cp_well
-cp_granary
-cp_gravelpit
-cp_badlands
-cp_fastlane
-pl_badwater
-pl_upward
-cp_junction_final
-cp_yukon_final
-cp_gorge
-cp_freight_final1
-cp_coldfront
-cp_foundry
-cp_gullywash_final1
-cp_snakewater_final1
-cp_process_final
-cp_sunshine
-cp_metalworks
-koth_sawmill
-koth_viaduct
-koth_harvest_final
-```
 
 ## Credits
 
