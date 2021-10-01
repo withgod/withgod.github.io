@@ -1,5 +1,7 @@
 # withgod's public server.
 
+> 👋👋👋👋👋 [mumble.withgod.jp](mumble://mumble.withgod.jp/) 👋👋👋👋👋
+
 > 一応02用意しました。
 
 > ⚠⚠⚠ AFK kick 180sec 導入しました ⚠⚠⚠⚠
@@ -77,4 +79,3 @@ koth_harvest_final
 * This product includes GeoLite2 data created by MaxMind, available from
     * [https://www.maxmind.com](https://www.maxmind.com<)
 
-* [murmur](mumble://mumble.withgod.jp/?version=1.2.19)
