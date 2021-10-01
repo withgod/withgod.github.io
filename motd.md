@@ -64,12 +64,11 @@ koth_harvest_final
 
 ## server monitoring
 
-<a href="https://www.battlemetrics.com/servers/tf2/12680881"><img src="https://cdn.battlemetrics.com/b/horizontal500x80px/12680881.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700" /></a>
+[![Banner for [JP] withgod's public server 01](https://cdn.battlemetrics.com/b/horizontal500x80px/12680881.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/tf2/12680881)
+[![Banner for [JP] withgod's public server 02](https://cdn.battlemetrics.com/b/horizontal500x80px/12871080.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/tf2/12871080)
+
 
 <iframe src="https://app.datadoghq.com/graph/embed?token=1caef6404c3de3c76a9a775be4b818257942569966d274b5930bc6d1d1bcb8b6&height=400&width=800&legend=true" width="800" height="400" frameborder="0"></iframe>
-
-<a href="https://www.gametracker.com/server_info/153.126.149.119:27015/" target="_blank"><img src="https://cache.gametracker.com/server_info/153.126.149.119:27015/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
-<a href="https://www.gametracker.com/server_info/153.127.49.53:27015/" target="_blank"><img src="https://cache.gametracker.com/server_info/153.127.49.53:27015/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
 ## Credits
 
