@@ -1,5 +1,7 @@
 # withgod's public server.
 
+> 一応02用意しました。
+
 > ⚠⚠⚠ AFK kick 180sec 導入しました ⚠⚠⚠⚠
 
 > [lerp100は甘え](https://withgod.hatenablog.com/entry/2012/08/30/004734)
