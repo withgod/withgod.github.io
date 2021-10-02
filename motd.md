@@ -64,7 +64,7 @@ koth_harvest_final
 * !mapvote (not votemap)
 
 ## server restart
-* every 5am.
+* every 5am/pm.
 
 ## server monitoring
 
