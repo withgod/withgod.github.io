@@ -1,6 +1,6 @@
 # withgod's public server.
 
-> 👋👋👋👋👋 [mumble.withgod.jp](mumble://mumble.withgod.jp/) 👋👋👋👋👋
+> 👋👋👋👋👋 [https://discord.gg/RXEFdeSx7u](https://discord.gg/RXEFdeSx7u)  <del>[mumble.withgod.jp](mumble://mumble.withgod.jp/)</del> 👋👋👋👋👋
 
 > 一応02用意しました。
 
