@@ -1,5 +1,6 @@
 # withgod's public server.
 
+> ⚠️⚠️⚠️⚠️ 03も建てまし ⚠️⚠️⚠️⚠️
 > 👋👋👋👋👋 [https://discord.gg/RXEFdeSx7u](https://discord.gg/RXEFdeSx7u)  <del>[mumble.withgod.jp](mumble://mumble.withgod.jp/)</del> 👋👋👋👋👋
 
 ## server list
@@ -7,6 +8,8 @@
 * [connect server 01](steam://connect/withgod.jp:27015)
 * [connect server 02](steam://connect/secondary.withgod.jp:27015)
 * [connect server 03](steam://connect/tertiary.withgod.jp:27016)
+
+[#monitoring](#server-monitoring)
 
 ## mapcycle
 
