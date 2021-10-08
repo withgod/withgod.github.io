@@ -2,14 +2,11 @@
 
 > 👋👋👋👋👋 [https://discord.gg/RXEFdeSx7u](https://discord.gg/RXEFdeSx7u)  <del>[mumble.withgod.jp](mumble://mumble.withgod.jp/)</del> 👋👋👋👋👋
 
-> 一応02用意しました。
+## server list
 
-> ⚠⚠⚠ AFK kick 180sec 導入しました ⚠⚠⚠⚠
-
-> [lerp100は甘え](https://withgod.hatenablog.com/entry/2012/08/30/004734)
-
-> ⚠ 観戦に入って抜けられなくなる現象を確認しています。遭遇した場合は `connect withgod.jp;` でワンチャン狙って下さい。/ I've seen this happen when you enter a spectator and can't get out. If you encounter this problem, please try to `connect withgod.jp`;
-
+* [connect server 01](steam://connect/withgod.jp:27015)
+* [connect server 02](steam://connect/secondary.withgod.jp:27015)
+* [connect server 03](steam://connect/tertiary.withgod.jp:27016)
 
 ## mapcycle
 
@@ -70,7 +67,7 @@ koth_harvest_final
 
 [![Banner for [JP] withgod's public server 01](https://cdn.battlemetrics.com/b/horizontal500x80px/12680881.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/tf2/12680881)
 [![Banner for [JP] withgod's public server 02](https://cdn.battlemetrics.com/b/horizontal500x80px/12871080.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/tf2/12871080)
-
+[![Banner for [JP] withgod's public server 00](https://cdn.battlemetrics.com/b/horizontal500x80px/12982431.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/tf2/12982431)
 
 <iframe src="https://app.datadoghq.com/graph/embed?token=1caef6404c3de3c76a9a775be4b818257942569966d274b5930bc6d1d1bcb8b6&height=400&width=800&legend=true" width="800" height="400" frameborder="0"></iframe>
 
