@@ -1,8 +1,10 @@
 # withgod's public server.
 
-> ⚠️⚠️⚠️⚠️ 03も建てまし ⚠️⚠️⚠️⚠️
+## infomation
 
-> 👋👋👋👋👋 [https://discord.gg/RXEFdeSx7u](https://discord.gg/RXEFdeSx7u)  <del>[mumble.withgod.jp](mumble://mumble.withgod.jp/)</del> 👋👋👋👋👋
+* ⚠️⚠️⚠️⚠️ 02復旧に伴い気休めにポートを27017に変更しています、お気に入りの変更をお願いします。 ⚠️⚠️⚠️⚠️
+* ⚠️⚠️⚠️⚠️ 03をVPS変更(sakura -> conoha), port変更(27015->27016)して建ててみました、お気に入りへの登録を推奨します。 ⚠️⚠️⚠️⚠️
+* 👋👋👋👋👋 [https://discord.gg/RXEFdeSx7u](https://discord.gg/RXEFdeSx7u)  <del>[mumble.withgod.jp](mumble://mumble.withgod.jp/)</del> 👋👋👋👋👋
 
 ## server list
 
