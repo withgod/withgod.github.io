@@ -7,7 +7,7 @@
 ## server list
 
 * [connect server 01](steam://connect/withgod.jp:27015) `connect withgod.jp:27015`
-* [connect server 02](steam://connect/secondary.withgod.jp:27015) `connect secondary.withgod.jp:27015`
+* [connect server 02](steam://connect/secondary.withgod.jp:27017) `connect secondary.withgod.jp:27017`
 * [connect server 03](steam://connect/tertiary.withgod.jp:27016) `connect tertiary.withgod.jp:27016`
 
 [#monitoring](#server-monitoring)
