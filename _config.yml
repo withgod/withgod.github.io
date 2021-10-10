@@ -6,4 +6,9 @@ plugins:
 theme: jekyll-theme-hacker
 show_downloads: false
 google_analytics: 288087940
+author:
+  name: withgod
+  email: noname@withgod.jp
+  url: https://withgod.hatenablog.com/
+owner: withgod
 
