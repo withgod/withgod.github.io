@@ -2,6 +2,8 @@
 
 ## infomation
 
+* Spy/Sniperをマップを連続して使えないPluginを導入しました。 [readmore](https://withgod.hatenablog.com/entry/2021/10/12/012116)
+* cp_junction_finalをmapcycleから削除しました。
 * ⚠️⚠️ 02復旧に伴い気休めにポートを27017に変更しています、お気に入りの変更をお願いします。 ⚠️⚠️
 * ⚠️⚠️ 03をVPS変更(sakura -> conoha), port変更(27015->27016)して建ててみました、お気に入りへの登録を推奨します。 ⚠️⚠️
 * 👋👋 [https://discord.gg/RXEFdeSx7u](https://discord.gg/RXEFdeSx7u)  <del>[mumble.withgod.jp](mumble://mumble.withgod.jp/)</del> 👋👋
@@ -29,7 +31,6 @@ cp_badlands
 cp_fastlane
 pl_badwater
 pl_upward
-cp_junction_final
 cp_yukon_final
 cp_gorge
 cp_freight_final1
