@@ -1,8 +1,9 @@
 auto: true
 server: true
-markdown: CommonMarkGhPages
+markdown: kramdown
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
+extensions: ["tables"]
 theme: jekyll-theme-hacker
 show_downloads: false
 google_analytics: 288087940
