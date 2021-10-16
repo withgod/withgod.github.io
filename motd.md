@@ -18,10 +18,6 @@
 
 <details>
 <summary> official cp + pl + koth</summary>
-<p>
-
-### full list
-```
 cp_well
 cp_granary
 cp_gravelpit
@@ -42,8 +38,6 @@ cp_metalworks
 koth_sawmill
 koth_viaduct
 koth_harvest_final
-```
-</p>
 </details>
 
 ## server settings
