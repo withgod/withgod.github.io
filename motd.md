@@ -2,8 +2,11 @@
 
 ## infomation
 
+* サーバ埋め中(起動直後のsawmill(それ以降は通常の設定に戻るはずです))は timelimit=60, idlemaxtime=30 にしました。
+    * 1マップだけなのでcp取ったりして次のマップに変わるとデフォルトに戻ります。
+    * 動作変な所があれば1以外を利用して下さい。
+    * 集まったらcp取るなりmapvoteで変えたり、admin/rcon解る人は変更して下さい。
 * Spy/Sniperをマップを連続して使えないPluginを導入しました。 [readmore](https://withgod.hatenablog.com/entry/2021/10/12/012116)
-* cp_junction_finalをmapcycleから削除しました。
 * 👋👋 [https://discord.gg/RXEFdeSx7u](https://discord.gg/RXEFdeSx7u)  <del>[mumble.withgod.jp](mumble://mumble.withgod.jp/)</del> 👋👋
 
 ## server list
