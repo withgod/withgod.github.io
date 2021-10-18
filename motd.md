@@ -19,29 +19,7 @@
 
 ## mapcycle
 
-<details>
-<summary> official cp + pl + koth</summary>
-cp_well
-cp_granary
-cp_gravelpit
-cp_badlands
-cp_fastlane
-pl_badwater
-pl_upward
-cp_yukon_final
-cp_gorge
-cp_freight_final1
-cp_coldfront
-cp_foundry
-cp_gullywash_final1
-cp_snakewater_final1
-cp_process_final
-cp_sunshine
-cp_metalworks
-koth_sawmill
-koth_viaduct
-koth_harvest_final
-</details>
+*  official cp + pl + koth
 
 ## server settings
 
