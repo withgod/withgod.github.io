@@ -3,8 +3,9 @@
 * total users 100
     * created at
         * max 2020/09/04 00:22:44, min 2003/09/11 17:09:24, avg 2010/09/18 18:37:31
-    * playtime(hour)
-        * max 8525, min 2, avg 3711
+    * playtime(hour) ignore less than 100 hours
+        * max 8525, min 2, avg 3785
+* last update 2021/10/20 19:28:02
 
 ### details
 
