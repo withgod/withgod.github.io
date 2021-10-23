@@ -1,22 +1,22 @@
 ## withgod's public server users.
 ### summaries
-* total users 129
+* total users 131
     * created at
-        * max 2021/07/28 04:48:47, min 2003/09/11 17:09:24, avg 2010/12/14 23:50:11
+        * max 2021/07/28 04:48:47, min 2003/09/11 17:09:24, avg 2010/11/25 06:43:04
     * playtime(hour) ignore less than 100 hours
-        * max 8532, min 283, avg 3569
-* last update 2021/10/23 01:27:21
+        * max 8532, min 283, avg 3549
+* last update 2021/10/24 01:56:45
 
 ### details
 
 |steamid|name|scout|sniper|sol|demo|medic|heavy|pyro|spy|engi|playtime|created|
 |----|----|----|----|----|----|----|----|----|----|----|----|----|
-|STEAM_0:0:18507580|[withgod[hip]](https://steamcommunity.com/profiles/76561197997280888)|151|25|325|53|6|2|64|4|19|2430|2008/03/14 18:54:03|
-|STEAM_0:0:3518092|[Player](https://steamcommunity.com/profiles/76561197967301912)|0|0|0|0|78|0|0|0|0|||
-|STEAM_0:0:24916113|[waira](https://steamcommunity.com/profiles/76561198010097954)|91|30|92|165|47|84|177|139|51|5778|2009/05/18 14:36:49|
-|STEAM_0:1:18780530|[9](https://steamcommunity.com/profiles/76561197997826789)|7|1|99|2|311|3|0|10|0|4987|2008/04/08 22:50:25|
+|STEAM_0:0:18507580|[withgod[hip]](https://steamcommunity.com/profiles/76561197997280888)|153|26|325|53|6|2|64|4|19|2430|2008/03/14 18:54:03|
+|STEAM_0:0:3518092|[Player](https://steamcommunity.com/profiles/76561197967301912)|0|0|0|0|111|0|0|0|0|||
+|STEAM_0:0:24916113|[waira](https://steamcommunity.com/profiles/76561198010097954)|91|30|92|165|47|84|178|139|51|5778|2009/05/18 14:36:49|
+|STEAM_0:1:18780530|[9](https://steamcommunity.com/profiles/76561197997826789)|7|1|99|2|314|3|13|10|0|4987|2008/04/08 22:50:25|
 |STEAM_0:0:57831801|[百合の間に挟まruby(假)](https://steamcommunity.com/profiles/76561198075929330)|0|1|621|43|0|24|0|8|10|||
-|STEAM_0:1:22559065|[🐺Wolf.Ag](https://steamcommunity.com/profiles/76561198005383859)|1|1|64|14|3|10|54|12|7|5420|2009/01/22 01:52:28|
+|STEAM_0:1:22559065|[🐺Wolf.Ag](https://steamcommunity.com/profiles/76561198005383859)|1|1|65|25|3|10|57|12|8|5420|2009/01/22 01:52:28|
 |STEAM_0:0:31524787|[One.PeNNy](https://steamcommunity.com/profiles/76561198023315302)|0|0|14|21|16|92|64|0|0|907|2010/04/01 18:11:26|
 |STEAM_0:1:17560514|[Broken](https://steamcommunity.com/profiles/76561197995386757)|5|0|0|15|20|9|14|0|0|2034|2007/12/31 16:39:35|
 |STEAM_0:0:16628480|[cher](https://steamcommunity.com/profiles/76561197993522688)|28|53|36|45|5|0|0|0|0|8462|2007/10/19 17:20:42|
@@ -36,10 +36,10 @@
 |STEAM_0:0:41695544|[noceof](https://steamcommunity.com/profiles/76561198043656816)|19|40|277|87|44|51|41|0|39|8532|2011/06/22 02:38:41|
 |STEAM_0:1:79795062|[kamome](https://steamcommunity.com/profiles/76561198119855853)|0|0|0|0|0|0|0|0|0||2013/12/26 15:30:11|
 |STEAM_0:1:483757029|[nyakky](https://steamcommunity.com/profiles/76561198927779787)|5|26|31|21|15|12|18|55|0|||
-|STEAM_0:1:63079274|[MagieStuka](https://steamcommunity.com/profiles/76561198086424277)|5|0|126|31|40|212|51|4|24||2013/03/16 18:36:36|
+|STEAM_0:1:63079274|[MagieStuka](https://steamcommunity.com/profiles/76561198086424277)|5|0|128|31|40|213|51|4|26||2013/03/16 18:36:36|
 |STEAM_0:1:72012383|[C](https://steamcommunity.com/profiles/76561198104290495)|75|32|3|23|20|20|1|5|0|||
 |STEAM_0:0:21384633|[emmi](https://steamcommunity.com/profiles/76561198003034994)|15|0|14|0|28|9|71|0|0||2008/11/20 23:26:13|
-|STEAM_0:0:269499|[swth](https://steamcommunity.com/profiles/76561197960804726)|33|103|132|15|78|0|125|51|0|1706|2003/09/16 18:39:37|
+|STEAM_0:0:269499|[swth](https://steamcommunity.com/profiles/76561197960804726)|33|103|136|15|78|0|130|51|5|1706|2003/09/16 18:39:37|
 |STEAM_0:0:16570915|[ForKK4](https://steamcommunity.com/profiles/76561197993407558)|0|0|1|0|0|0|1|1|14|2894|2007/10/15 14:24:45|
 |STEAM_0:1:44700169|[doyasa](https://steamcommunity.com/profiles/76561198049666067)|82|27|41|106|38|0|0|0|2|6033|2011/09/28 23:14:35|
 |STEAM_0:0:24749277|[kesseki-hei](https://steamcommunity.com/profiles/76561198009764282)|41|6|92|71|113|104|175|10|97|1284|2009/05/07 22:38:15|
@@ -50,7 +50,7 @@
 |STEAM_0:1:52756666|[ao](https://steamcommunity.com/profiles/76561198065779061)|0|0|1|47|19|0|0|0|11||2012/06/23 18:22:14|
 |STEAM_0:0:22497590|[⊂[ちあき]⊃](https://steamcommunity.com/profiles/76561198005260908)|0|0|0|0|0|0|0|0|0|2714|2009/01/17 10:02:04|
 |STEAM_0:1:18278367|[isaco](https://steamcommunity.com/profiles/76561197996822463)|0|0|0|0|0|0|0|0|0|1288|2008/02/25 09:56:40|
-|STEAM_0:0:208930917|[マクリー](https://steamcommunity.com/profiles/76561198378127562)|23|10|57|74|68|17|0|26|0|3634|2017/04/05 22:14:24|
+|STEAM_0:0:208930917|[マクリー](https://steamcommunity.com/profiles/76561198378127562)|24|10|57|74|68|17|0|28|0|3634|2017/04/05 22:14:24|
 |STEAM_0:1:21024547|[FooFighters](https://steamcommunity.com/profiles/76561198002314823)|0|0|0|0|0|0|0|0|0|||
 |STEAM_0:1:36144431|[ikaring](https://steamcommunity.com/profiles/76561198032554591)|57|0|13|17|0|0|0|0|0|6649|2010/10/29 21:01:30|
 |STEAM_0:0:22506321|[horihori99](https://steamcommunity.com/profiles/76561198005278370)|3|0|110|20|129|0|0|1|0|5755|2009/01/17 22:35:03|
@@ -60,11 +60,11 @@
 |STEAM_0:1:50394628|[まんまるち](https://steamcommunity.com/profiles/76561198061054985)|0|0|2|0|0|0|0|0|0||2012/03/28 19:53:28|
 |STEAM_0:0:74646468|[msk](https://steamcommunity.com/profiles/76561198109558664)|12|9|4|42|2|16|5|0|2|520|2013/10/03 21:07:34|
 |STEAM_0:1:49109886|[hinamiya](https://steamcommunity.com/profiles/76561198058485501)|47|19|46|8|0|31|5|19|21|3373|2012/02/10 08:37:16|
-|STEAM_0:1:7460211|[re_pyro](https://steamcommunity.com/profiles/76561197975186151)|13|34|23|27|3|17|275|6|6|2413|2005/03/31 21:47:22|
+|STEAM_0:1:7460211|[re_pyro](https://steamcommunity.com/profiles/76561197975186151)|13|34|33|37|3|17|288|6|6|2413|2005/03/31 21:47:22|
 |STEAM_0:0:24963824|[kaiyare](https://steamcommunity.com/profiles/76561198010193376)|0|0|0|0|0|0|0|0|0|3328|2009/05/22 00:29:25|
 |STEAM_0:0:27476287|[hrm](https://steamcommunity.com/profiles/76561198015218302)|108|0|232|44|0|23|1|0|83||2009/11/04 21:53:07|
 |STEAM_0:1:27378489|[Fiszz](https://steamcommunity.com/profiles/76561198015022707)|0|0|0|0|0|0|0|0|0||2009/11/01 03:41:11|
-|STEAM_0:0:360|[HyR](https://steamcommunity.com/profiles/76561197960266448)|1|1|0|12|63|1|280|1|19|5116|2003/09/11 17:09:24|
+|STEAM_0:0:360|[HyR](https://steamcommunity.com/profiles/76561197960266448)|1|1|0|12|63|1|280|1|23|5116|2003/09/11 17:09:24|
 |STEAM_0:0:34657346|[ai.chan](https://steamcommunity.com/profiles/76561198029580420)|0|0|0|0|138|0|0|0|0||2010/08/26 21:32:16|
 |STEAM_0:1:12726799|[oda](https://steamcommunity.com/profiles/76561197985719327)|56|0|10|76|15|0|0|0|0|5160|2006/10/27 04:25:40|
 |STEAM_0:0:11317810|[t abchi](https://steamcommunity.com/profiles/76561197982901348)|0|0|0|0|0|0|0|0|0|2476|2006/05/31 19:40:45|
@@ -78,7 +78,7 @@
 |STEAM_0:1:536702912|[✟ MEDIC DOG ✟™](https://steamcommunity.com/profiles/76561199033671553)|0|0|0|0|0|0|0|0|0||2020/03/15 01:23:32|
 |STEAM_0:0:25117433|[Eric the Usurper](https://steamcommunity.com/profiles/76561198010500594)|53|5|198|101|13|0|1|2|9||2009/05/31 15:24:17|
 |STEAM_0:0:222504005|[ドスケベニコニ](https://steamcommunity.com/profiles/76561198405273738)|11|7|68|10|0|0|0|22|0||2017/07/19 15:21:06|
-|STEAM_0:1:5479827|[けべす](https://steamcommunity.com/profiles/76561197971225383)|2|10|19|0|0|55|2|0|2|4195|2004/11/28 00:28:51|
+|STEAM_0:1:5479827|[けべす](https://steamcommunity.com/profiles/76561197971225383)|2|10|20|0|0|55|17|0|2|4195|2004/11/28 00:28:51|
 |STEAM_0:1:56725809|[しいな](https://steamcommunity.com/profiles/76561198073717347)|23|15|24|16|0|10|0|0|0|992|2012/10/18 16:42:19|
 |STEAM_0:1:24568599|[V-JOLT](https://steamcommunity.com/profiles/76561198009402927)|0|0|177|70|143|0|0|0|5|5328|2009/04/27 21:14:36|
 |STEAM_0:0:41204332|[123](https://steamcommunity.com/profiles/76561198042674392)|90|19|148|19|0|7|0|52|18|8225|2011/06/01 17:53:23|
@@ -140,6 +140,8 @@
 |STEAM_0:1:18337534|[yakis0blyat](https://steamcommunity.com/profiles/76561197996940797)|3|0|0|0|5|2|0|0|0|1335|2008/03/01 20:49:26|
 |STEAM_0:1:18854275|[him-amino](https://steamcommunity.com/profiles/76561197997974279)|0|0|0|0|0|3|5|0|0|1608|2008/04/15 17:44:49|
 |STEAM_0:1:345383|[OKADA](https://steamcommunity.com/profiles/76561197960956495)|0|19|0|0|0|23|0|0|0|2493|2003/09/18 11:57:51|
+|STEAM_0:0:15893710|[RoyalRuby](https://steamcommunity.com/profiles/76561197992053148)|6|0|0|0|0|0|0|0|0||2007/08/21 11:57:26|
+|STEAM_0:0:18619774|[Meltes](https://steamcommunity.com/profiles/76561197997505276)|5|3|0|0|0|0|0|0|0|2313|2008/03/23 14:25:42|
 
 <div class="tables-end"></div>
 
