@@ -5,7 +5,7 @@
         * max 2021/10/24 21:31:38, min 2003/09/11 17:09:24, avg 2011/01/07 14:41:47
     * playtime(hour) ignore less than 100 hours
         * max 8532, min 283, avg 3479
-* last update 2021/10/28 03:50:15
+* last update 2021/10/28 04:02:41
 
 ### details
 
@@ -142,7 +142,7 @@
 |STEAM_0:1:345383|[OKADA](https://steamcommunity.com/profiles/76561197960956495)|0|19|0|0|0|23|0|0|0|2493|2003/09/18 11:57:51|
 |STEAM_0:0:15893710|[RoyalRuby](https://steamcommunity.com/profiles/76561197992053148)|87|16|0|6|0|0|0|0|0||2007/08/21 11:57:26|
 |STEAM_0:0:18619774|[Meltes](https://steamcommunity.com/profiles/76561197997505276)|14|22|0|0|5|0|0|0|42|2313|2008/03/23 14:25:42|
-|STEAM_0:0:18069103|[Rid-|PaN](https://steamcommunity.com/profiles/76561197996403934)|7|16|0|0|0|0|0|0|0|2005|2008/02/06 16:57:04|
+|STEAM_0:0:18069103|[Rid-\|PaN](https://steamcommunity.com/profiles/76561197996403934)|7|16|0|0|0|0|0|0|0|2005|2008/02/06 16:57:04|
 |STEAM_0:0:544804024|[bee gaming](https://steamcommunity.com/profiles/76561199049873776)|1|0|0|2|1|0|0|0|1|||
 |STEAM_0:0:579893869|[tazhaynesii](https://steamcommunity.com/profiles/76561199120053466)|0|1|2|0|0|0|0|0|0||2020/12/21 05:12:30|
 |STEAM_0:0:628168510|[showshow520321](https://steamcommunity.com/profiles/76561199216602748)|0|0|0|2|0|0|0|1|0||2021/10/24 21:31:38|
