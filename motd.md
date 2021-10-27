@@ -2,6 +2,7 @@
 
 ## infomation
 
+* 02は縮退します。
 * [withgod's public server group](https://steamcommunity.com/groups/withgod_public_server)
     * 毎週水曜、土曜20:00～集合。
 * サーバ埋め中(起動直後のsawmill(それ以降は通常の設定に戻るはずです))は timelimit=60, idlemaxtime=30 にしました。
@@ -14,7 +15,6 @@
 ## server list
 
 * [connect server 01](steam://connect/withgod.jp:27015) `connect withgod.jp:27015`
-* [connect server 02](steam://connect/secondary.withgod.jp:27017) `connect secondary.withgod.jp:27017`
 * [connect server 03](steam://connect/tertiary.withgod.jp:27016) `connect tertiary.withgod.jp:27016`
 
 [#monitoring](#server-monitoring)
@@ -48,7 +48,6 @@
 ## server monitoring
 
 [![Banner for [JP] withgod's public server 01](https://cdn.battlemetrics.com/b/horizontal500x80px/12680881.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/tf2/12680881)
-[![Banner for [JP] withgod's public server 02](https://cdn.battlemetrics.com/b/horizontal500x80px/12988478.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/tf2/12988478)
 [![Banner for [JP] withgod's public server 00](https://cdn.battlemetrics.com/b/horizontal500x80px/12982431.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/tf2/12982431)
 
 <iframe src="https://app.datadoghq.com/graph/embed?token=1caef6404c3de3c76a9a775be4b818257942569966d274b5930bc6d1d1bcb8b6&height=400&width=800&legend=true" width="800" height="400" frameborder="0"></iframe>
