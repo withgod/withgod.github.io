@@ -2,16 +2,16 @@
 ### summaries
 * total users 136
     * created at
-        * max 2021/10/24 21:31:38, min 2003/09/11 17:09:24, avg 2011/01/07 14:41:47
+        * max 2021/10/24 21:31:38, min 2003/09/11 17:09:24, avg 2011/01/07 14:41:47 med 2010/04/19 19:43:41
     * playtime(hour) ignore less than 100 hours
-        * max 8532, min 283, avg 3479
-* last update 2021/10/28 04:02:41
+        * max 8532, min 283, avg 3479 med 3110
+* last update 2021/10/29 18:39:54
 
 ### details
 
 |steamid|name|scout|sniper|sol|demo|medic|heavy|pyro|spy|engi|playtime|created|
 |----|----|----|----|----|----|----|----|----|----|----|----|----|
-|STEAM_0:0:18507580|[withgod[hip]](https://steamcommunity.com/profiles/76561197997280888)|156|42|414|53|6|10|64|4|21|2430|2008/03/14 18:54:03|
+|STEAM_0:0:18507580|[withgod[hip]](https://steamcommunity.com/profiles/76561197997280888)|162|42|414|53|6|10|64|4|21|2430|2008/03/14 18:54:03|
 |STEAM_0:0:3518092|[Player](https://steamcommunity.com/profiles/76561197967301912)|0|0|0|0|131|0|0|0|0|||
 |STEAM_0:0:24916113|[waira](https://steamcommunity.com/profiles/76561198010097954)|98|30|92|189|67|84|192|139|51|5778|2009/05/18 14:36:49|
 |STEAM_0:1:18780530|[9](https://steamcommunity.com/profiles/76561197997826789)|7|1|125|2|376|3|13|10|0|4987|2008/04/08 22:50:25|
@@ -22,7 +22,7 @@
 |STEAM_0:0:16628480|[cher](https://steamcommunity.com/profiles/76561197993522688)|28|53|36|45|5|0|0|0|0|8462|2007/10/19 17:20:42|
 |STEAM_0:0:19645634|[noob](https://steamcommunity.com/profiles/76561197999556996)|38|0|97|55|0|0|0|0|0||2008/06/26 22:29:08|
 |STEAM_0:1:56172636|[w.w.lilie](https://steamcommunity.com/profiles/76561198072611001)|79|50|44|180|52|7|56|17|126|4094|2012/09/30 19:47:50|
-|STEAM_0:1:21588686|[typumpkin](https://steamcommunity.com/profiles/76561198003443101)|0|0|11|3|177|15|36|0|14|2576|2008/11/30 19:17:43|
+|STEAM_0:1:21588686|[typumpkin](https://steamcommunity.com/profiles/76561198003443101)|0|0|11|3|177|17|36|0|14|2576|2008/11/30 19:17:43|
 |STEAM_0:1:24635197|[七番](https://steamcommunity.com/profiles/76561198009536123)|3|0|27|3|0|2|39|19|26|2660|2009/05/02 01:32:57|
 |STEAM_0:0:15093215|[Dot](https://steamcommunity.com/profiles/76561197990452158)|85|24|134|54|0|0|60|1|80|7738|2007/06/09 18:05:15|
 |STEAM_0:0:50617445|[らむむ](https://steamcommunity.com/profiles/76561198061500618)|17|52|320|11|88|12|64|24|23|4668|2012/04/06 10:37:56|
@@ -113,7 +113,7 @@
 |STEAM_0:0:43364645|[Philo](https://steamcommunity.com/profiles/76561198046995018)|0|0|2|0|0|0|4|0|0|4289|2011/08/17 00:17:51|
 |STEAM_0:1:118534956|[Uoza](https://steamcommunity.com/profiles/76561198197335641)|9|0|0|5|0|0|0|0|0|||
 |STEAM_0:1:116898807|[BinaryLargeOBject647](https://steamcommunity.com/profiles/76561198194063343)|2|0|0|0|0|0|0|0|0|||
-|STEAM_0:1:82448031|[toniobernandez08](https://steamcommunity.com/profiles/76561198125161791)|0|1|0|0|0|0|0|0|0|5176|2014/02/03 17:23:08|
+|STEAM_0:1:82448031|[toniobernandez08](https://steamcommunity.com/profiles/76561198125161791)|0|4|0|0|0|0|0|0|0|5176|2014/02/03 17:23:08|
 |STEAM_0:0:137106736|[宮沢静虎](https://steamcommunity.com/profiles/76561198234479200)|6|1|8|3|18|0|2|7|0|||
 |STEAM_0:1:27474339|[Ustim](https://steamcommunity.com/profiles/76561198015214407)|17|18|137|23|10|0|0|0|0|4801|2009/11/06 00:20:48|
 |STEAM_0:1:65155087|[SSSS...](https://steamcommunity.com/profiles/76561198090575903)|1|0|56|36|6|2|0|0|0|3281|2013/05/04 13:53:04|
