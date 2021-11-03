@@ -4,7 +4,7 @@
 
 * 02は縮退します。
 * [withgod's public server group](https://steamcommunity.com/groups/withgod_public_server)
-    * 毎週水曜、土曜20:00～集合。
+    * 毎週水曜、土曜21:00～集合。
 * サーバ埋め中(起動直後のsawmill(それ以降は通常の設定に戻るはずです))は timelimit=60, idlemaxtime=30 にしました。
     * 1マップだけなのでcp取ったりして次のマップに変わるとデフォルトに戻ります。
     * 動作変な所があれば1以外を利用して下さい。
