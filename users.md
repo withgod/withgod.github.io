@@ -5,7 +5,7 @@
         * max 2021/10/24 21:31:38, min 2003/09/11 17:09:24, avg 2011/06/11 06:26:42 med 2010/10/29 21:01:30
     * playtime(hour) ignore less than 100 hours
         * max 8532, min 220, avg 3346 med 3048
-* last update 2021/11/11 04:15:56
+* last update 2021/11/11 04:19:50
 
 ### details
 
@@ -156,7 +156,6 @@
 |STEAM_0:1:176236576|[AimlessJevil](https://steamcommunity.com/profiles/76561198312738881)|0|0|3|10|2|0|1|0|0||2016/06/13 10:17:34|
 |STEAM_0:1:176384998|[Flareinga](https://steamcommunity.com/profiles/76561198313035725)|7|0|4|10|0|0|0|0|0|375|2016/06/16 23:13:46|
 |STEAM_0:1:42871235|[tolan](https://steamcommunity.com/profiles/76561198046008199)|0|1|0|0|0|0|0|0|0||2011/07/28 06:41:43|
-|STEAM_ID_STOP_IGNORING_RETVALS|[](https://steamcommunity.com/profiles/76561197960265728)|0|0|0|0|0|0|0|0|0|||
 |STEAM_0:0:558914085|[play](https://steamcommunity.com/profiles/76561199078093898)|0|0|0|0|1|0|0|0|0||2020/07/30 22:24:04|
 |STEAM_0:1:444802763|[terrariaman](https://steamcommunity.com/profiles/76561198849871255)|0|0|4|0|0|0|0|0|0|220|2018/07/26 00:17:41|
 
