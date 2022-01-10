@@ -5,7 +5,7 @@
         * max 2021/10/24 21:31:38, min 2003/09/11 17:09:24, avg 2011/09/19 17:21:32 med 2011/06/11 22:16:02
     * playtime(hour) ignore less than 100 hours
         * max 8532, min 220, avg 3355 med 3079
-* last update 2021/11/20 22:51:40
+* last update 2022/01/11 04:46:33
 
 ### details
 
